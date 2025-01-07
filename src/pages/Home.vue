@@ -26,8 +26,8 @@
                 <h4>Developer?</h4>
                 <p><strong style="display: inline-block; margin-bottom: 5px; color: var(--yellow);">Hooks are the native smart contracts on the Xahau network.</strong><br />Checkout our docs and tools.</p>
             </hgroup>
-            <a style="margin-bottom: 8px;" href="https://hooks-builder.xrpl.org" role="button" class="primary btnsm">Hooks builder <Hammer :size="20" :stroke-width="2.5" /></a>
-            <a style="margin-bottom: 8px;" href="https://xrpl-hooks.readme.io" role="button" class="primary btnsm">Hooks docs <FileCode :size="20" :stroke-width="2.5" /></a>
+            <a style="margin-bottom: 8px;" href="https://builder.xahau.network" role="button" class="primary btnsm">Hooks builder <Hammer :size="20" :stroke-width="2.5" /></a>
+            <a style="margin-bottom: 8px;" href="https://docs.xahau.network/readme-1" role="button" class="primary btnsm">Hooks docs <FileCode :size="20" :stroke-width="2.5" /></a>
             <a style="margin-bottom: 8px;" href="https://hooks-testnet.xrpl-labs.com" role="button" class="primary btnsm">Hooks testnet <FlaskConical :size="18" :stroke-width="2.5" /></a>
         </div>
       </div>
